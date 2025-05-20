@@ -1,0 +1,42 @@
+body {
+  background-color:#ffffff;
+  font-family: Arial, sans-serif;
+  color: #4f4d5b
+
+}
+
+header{
+  background:#000000;
+  text-align:center
+}
+
+#texto{
+  
+   font-family: Calibri, sans-serif;
+   
+  
+}
+
+
+#introducao{
+  text-align:center
+}
+nav a{
+  text-decoration:none;
+  font-size: 20px;
+  
+}
+table{
+  width:80%;
+  margin:0 auto;
+  border-collapse: collapse;
+  background-color: #C0C0C0;
+  border: 3px solid #A9A9A9;
+  box-shadow: 0 4px 6px rgba(2,2,0.1);
+  text-align:center
+  
+}
+footer{
+  text-align:center
+  
+}
